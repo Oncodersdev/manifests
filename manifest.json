@@ -47,23 +47,13 @@
              "Tags": ""
           },
           {
-             "Address": "191.114.65.74",
-             "Port": 28015,
-             "Tags": ""
-          },
-          {
              "Address": "79.116.53.174",
-             "Port": 25015,
-             "Tags": ""
-          },
-          {
-             "Address": "127.0.0.1",
              "Port": 25015,
              "Tags": ""
           }
        ], 
        "Banned": [
-           ""
+           "255.211.242.147"
          ]
     },
     "Metadata":{
@@ -71,7 +61,7 @@
           "https://i.postimg.cc/nhZR03kJ/rust-muzzlebrakeandboost-duo-01.jpg"
        ],
        "BlockedServers":[
-           ""
+           "255.211.242.147"
        ],
        "TrophyPages":[
           {
@@ -154,6 +144,7 @@
        ]
     }
  }
+
 
 
 
