@@ -53,7 +53,8 @@
           }
        ], 
        "Banned": [
-           "255.211.242.147"
+             "123.122.214.256",
+             ""
          ]
     },
     "Metadata":{
@@ -61,7 +62,7 @@
           "https://i.postimg.cc/nhZR03kJ/rust-muzzlebrakeandboost-duo-01.jpg"
        ],
        "BlockedServers":[
-           "255.211.242.147"
+          "123.122.214.256"
        ],
        "TrophyPages":[
           {
@@ -144,23 +145,3 @@
        ]
     }
  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
